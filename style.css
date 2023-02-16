@@ -1,0 +1,103 @@
+body {
+    background-color: #F6F8F9;
+}
+.nav-logo {
+    color: #FA6980;
+    font-size: 13px;
+    display: inline-block;
+}
+.nav-bar {
+    display: inline-block;
+    margin-left: 22px;
+}
+.red-active {
+    color: #343638;
+    font-size: 11px;
+}
+.nav-item {
+    color: #343638;
+    font-size: 11px;
+    font-family: 'Outfit', sans-serif;
+}
+.nav-bar-photo {
+    display: inline-block;
+    margin-left: 40px;
+    vertical-align: middle;
+}
+.header {
+    width: 1440px;
+    height: 50px;
+}
+.nav-list {
+    display: inline-block;
+    margin-left: 92px;
+}
+.navigation {
+    margin-left: 20px;
+    margin-top: 18px;
+}
+.travel-box {
+    margin-top: 25px;
+    width: 1160px;
+    height: 410px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.travelbox-1 {
+    display:inline-block;
+    width: 360px;
+    height: 180px;
+    margin-top: 40px;
+}
+.travelbox-text1 {
+    text-align:center;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+}
+.travel-boxtext {
+    padding-block: 66px;
+    font-family: 'BPG LE Studio 04 Caps';
+}
+.middle-box {
+    margin-inline: 36px;
+}
+.photos-div {
+width: 1160px;
+height: 960px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 58px;
+}
+.photos-div1 {
+    width: 760px;
+    height: 900px;
+    display: inline-block;
+    margin-top: 43px;
+    box-sizing: border-box;
+}
+.photos-div2 {
+    width: 360px;
+    height: 1096px;
+    display: inline-block;
+    margin-left: 36px;
+    box-sizing: border-box;
+    vertical-align: top;  
+    margin-top: 43px;
+}
+.image-5 {
+    margin-top: 40px;
+}
+.image-7 {
+    margin-block: 102px;
+}
+.pop-destination {
+    font-family: "BPG Classic Medium", sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+.hapening-now {
+    font-family: 'Outfit', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
